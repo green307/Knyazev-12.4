@@ -9,9 +9,9 @@
 город нахождения магазина;
 количество пользователей, закреплённых в этом магазине.
 
+# ИСПРАВЛЕННО!
 
-
-![alt text](https://github.com/green307/Knyazev-12.4/blob/2c19ba173a821ba8efcb15cb71b7e9f5b618a5d2/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.jpg)
+![alt text](https://github.com/green307/Knyazev-12.4/blob/606c6a33153e9721464060d23534defc150d5eb2/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51-1.jpg)
 
 
 Задание 2
